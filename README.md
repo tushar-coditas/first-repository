@@ -1,2 +1,3 @@
 # first-repository
-My First Repository
+
+This is my first repository for learning purpose.
